@@ -24,7 +24,7 @@
     "lib",
     "bin"
   ],
-  "repository": "git@github.com:ForbesLindesay/npm-package-template.git",
+  "repository": "git@github.com:ForbesLindesay/farmhash-modern.git",
   "author": "Forbes Lindesay <forbes@lindesay.co.uk>",
   "license": "MIT",
   "scripts": {
